@@ -2,6 +2,7 @@
 
 <!--
 **codesciple/codesciple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 
@@ -12,4 +13,3 @@
 - 📫 How to reach me: Twitter | Instagram -> @codesciple
 
 - ⚡ Fun fact: I am commerce grad and a former Chartered Accountancy student transitioning into Software Development industry.
--->
