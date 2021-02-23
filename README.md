@@ -7,7 +7,7 @@
 
 
 - 🔭 Just finished my Round - 3 of #100DaysOfCode challenge.
-- 🌱 I’m currently learning || Java || javaScript || ReactJS ||
+- 🌱 I’m currently learning || Java || SpringBoot || MySQL || javaScript || ReactJS ||
 - 👯 I’m looking to collaborate on any exciting front-end projects.
 
 - 📫 How to reach me: Twitter | Instagram -> @codesciple
