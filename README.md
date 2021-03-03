@@ -6,7 +6,6 @@
 
 
 
-- 🔭 Just finished my Round - 3 of #100DaysOfCode challenge.
 - 🌱 I’m currently learning || Java || SpringBoot || MySQL || javaScript || ReactJS ||
 - 👯 I’m looking to collaborate on any exciting front-end projects.
 
