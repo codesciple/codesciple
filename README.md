@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nadeem</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesciple&label=Profile%20views&color=66cc00&style=flat-square" alt="codesciple" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesciple&label=Profile%20views&color=59b300&style=flat-square" alt="codesciple" /> </p>
 
 - 🌱 I’m currently learning **Java | Spring | javaScript | ReactJS**
 
