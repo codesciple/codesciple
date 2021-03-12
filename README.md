@@ -18,7 +18,8 @@
 - ⚡ Fun fact **I am commerce grad and a former Chartered Accountancy student - so, a bit unconventional as I come from a non CS background.**
 
 
-
+<br/>
+<br/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
 
