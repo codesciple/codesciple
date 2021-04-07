@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesciple&label=Profile%20views&color=59b300&style=flat-square" alt="codesciple" /> </p>
 
-- 🌱 I’m currently learning **Java | Spring | javaScript | ReactJS**
+- 🌱 I’m currently learning **Java | Spring | javaScript | ReactJS | Python | SQL**
 
 - 👨‍💻 My projects are available at [https://codesciple.com/](https://codesciple.com/)
 
