@@ -5,11 +5,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Nadeem</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesciple&label=Profile%20views&color=59b300&style=flat-square" alt="codesciple" /> </p>
 
-- 🌱 I’m currently learning **Java | Spring | javaScript | ReactJS | SQL**
+- 🌱 I’m currently learning **Java | Python | SQL | R | Data Science**
 
 - 👨‍💻 My projects are available at [https://codesciple.com/](https://codesciple.com/)
 
