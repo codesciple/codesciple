@@ -28,7 +28,7 @@
 <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Big Query" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank"> <img src="https://img.icons8.com/color/48/000000/data.png" alt="Exploratory Data Analysis" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/data.png](https://img.icons8.com/?size=100&id=11pV7RFTPbSd&format=png&color=000000)" alt="Exploratory Data Analysis" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Market_analysis" target="_blank"> <img src="https://img.icons8.com/color/48/000000/market.png" alt="Market Analysis" width="40" height="40"/> </a>
 <a href="https://openai.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Tools" width="40" height="40"/> </a>
 </p>
