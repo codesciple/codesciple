@@ -2,39 +2,23 @@
 **codesciple/codesciple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-
-<style>
-  body {
-    font-family: 'VT323', monospace;
-    color: #00ff00;
-    background-color: #000000;
-  }
-  h1, h3 {
-    color: #00ff00;
-  }
-  a {
-    color: #00ff00;
-  }
-</style>
-
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate Business Analyst</h3>
+<h1 align="center" style="color: #00ff00; font-family: 'VT323', monospace; background-color: #000000;">Hi 👋, I'm Mohammed</h1>
+<h3 align="center" style="color: #00ff00; font-family: 'VT323', monospace; background-color: #000000;">A passionate Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesciple&label=Profile%20views&color=00ff00&style=flat-square" alt="codesciple" /> </p>
 
-<p align="center">
+<p align="center" style="color: #00ff00; font-family: 'VT323', monospace; background-color: #000000;">
   🌱 I’m currently learning Advanced Analytics Techniques and AI Tools<br/>
-  👨‍💻 My projects are available at <a href="https://codesciple.com/">codesciple.com</a><br/>
-  📫 How to reach me: <a href="mailto:codesciple@gmail.com">codesciple@gmail.com</a><br/>
+  👨‍💻 My projects are available at <a href="https://codesciple.com/" style="color: #00ff00;">codesciple.com</a><br/>
+  📫 How to reach me: <a href="mailto:codesciple@gmail.com" style="color: #00ff00;">codesciple@gmail.com</a><br/>
   ⚡ Fun fact: I am a commerce grad and a former Chartered Accountancy student - so, a bit unconventional as I come from a non-CS background.
 </p>
 
 <br/>
 <br/>
 
-<h3 align="center">Skills and Tools:</h3>
-<p align="center">  
+<h3 align="center" style="color: #00ff00; font-family: 'VT323', monospace; background-color: #000000;">Skills and Tools:</h3>
+<p align="center" style="background-color: #000000;">  
 <br/>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" width="40" height="40"/> </a>
@@ -51,7 +35,7 @@
 <br/>
 <br/>
 
-<h3 align="center">Dynamic Repositories:</h3>
-<p align="center">
+<h3 align="center" style="color: #00ff00; font-family: 'VT323', monospace; background-color: #000000;">Dynamic Repositories:</h3>
+<p align="center" style="background-color: #000000;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesciple&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
